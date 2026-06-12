@@ -40,7 +40,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Avan1sh/Avan1sh/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Avan1sh/Avan1sh/blob/main/workflows/languages.yml" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Avan1sh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
