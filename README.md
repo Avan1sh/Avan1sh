@@ -3,19 +3,11 @@
 # Hi there 👋, I'm Avanish
 
 ### CS undergrad building agentic LLM systems, computer vision, and full-stack apps
-
+</div>
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=Avan1sh&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" />
 
 </div>
-
-<!-- ===== TECH BANNER (the icon strip from the sample) ===== -->
-<div align="center">
-
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,ts,js,pytorch,langchain,pandas,numpy,fastapi,postgres,sqlite,docker,aws,postman,react,nextjs,tailwind,unity,unreal,discord&perline=10)](https://go-skill-icons.vercel.app/)
-
-</div>
-
----
 
 ### Connect with me
 
@@ -27,9 +19,9 @@
 
 ### What I'm working on
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td valign="top">
+<td valign="top" style="border:none;">
 
 -  Building an **AI customer-support triage & routing system** with LangChain, LangGraph, FastAPI, and ChromaDB
 -  Built an **autonomous drone perception pipeline** (YOLO + SAM in AirSim) for GPS-denied navigation
@@ -37,7 +29,7 @@
 -  Going deeper on **RAG pipelines, multi-agent workflows, and vector search**
 
 </td>
-<td valign="top" width="340">
+<td valign="top" width="340" style="border:none;">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXA0ZGxuOWkxd3hrbDRkMnA2c2F5ZHJ6cHYzdW1pbzQ4eTd3dzdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5pTznsj3cwsyQ/giphy.gif" width="320" alt="working gif" />
 
@@ -45,6 +37,10 @@
 </tr>
 </table>
 
+---
+### Languages & Tools
+
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,ts,js,pytorch,langchain,pandas,numpy,fastapi,postgres,sqlite,docker,aws,postman,react,nextjs,tailwind,unity,unreal,discord&perline=10)](https://go-skill-icons.vercel.app/)
 ---
 
 <!-- ===== STATS (optional). Reads honest only after you push your Python work. ===== -->
