@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">-Building an AI customer-support triage & routing system with LangChain, LangGraph, FastAPI, and ChromaDB<br>-Built an autonomous drone perception pipeline (YOLO + SAM in AirSim) for GPS-denied navigation<br>-Co-built AROGYA, a smart healthcare & physiotherapy platform (Unity, Next.js, PostgreSQL, Arduino)<br>-Going deeper on RAG pipelines, multi-agent workflows, and vector search</p>
+<p align="left">-Built an AI customer-support triage & routing system with LangChain, LangGraph, FastAPI, and ChromaDB<br>-Built an autonomous drone perception pipeline (YOLO + SAM in AirSim) for GPS-denied navigation<br>-Co-built AROGYA, a smart healthcare & physiotherapy platform (Unity, Next.js, PostgreSQL, Arduino)<br>-Going deeper on RAG pipelines, multi-agent workflows, and vector search</p>
 
 ###
 
